@@ -1,4 +1,4 @@
-# Retweet
+# Retweeter
 
 Retweet everything from an account.
 
